@@ -87,7 +87,7 @@
                     "publisher": "[parameters('imagePublisher')]",
                     "offer": "[parameters('imageOffer')]",
                     "sku": "[parameters('imageSku')]",
-                    "version": "latest"
+                    "version": "7.1.1"
                 },
                 "dataDisks": [
                 {
