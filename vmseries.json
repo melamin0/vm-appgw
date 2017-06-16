@@ -356,6 +356,9 @@
           "imageOffer": {
             "value": "[variables('imageOffer')]"
           },
+          "imageVersion": {
+            "value": "7.1.1"
+          },
           "imagePublisher": {
             "value": "[variables('imagePublisher')]"
           },
